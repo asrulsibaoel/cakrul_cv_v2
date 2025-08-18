@@ -1,0 +1,144 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {"title": "Awards"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2018, "month": 8},
+                    "fallbackFaIcon": "fa-solid fa-university",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Best Graduation Project",
+                            "description": "Outstanding work on graduation project; recognized for innovation and impact.",
+                            "institution": "Harvard University"
+                        }
+                    },
+                    "links": []
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2019, "month": 9},
+                    "fallbackFaIcon": "fa-solid fa-university",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "2nd Place – Alumni UX Hackathon",
+                            "description": "Secured 2nd place in Harvard's Alumni UX hackathon; demonstrated creative problem-solving.",
+                            "institution": "Harvard University"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://harvard.com", "stringKey": "view_more_info"}
+                    ]
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2020, "month": 11},
+                    "fallbackFaIcon": "fa-solid fa-house-laptop",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "1st Place – Adobe Creative Jam",
+                            "description": "Achieved 1st place in Adobe Creative Jam; showcased design excellence and collaboration.",
+                            "institution": "Adobe Inc."
+                        }
+                    },
+                    "links": []
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2023, "month": 3},
+                    "fallbackFaIcon": "fa-solid fa-newspaper",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Article Mention – UX Contribution",
+                            "description": "Featured in Forbes for outstanding UX contributions; impactful designs and insights.",
+                            "institution": "Forbes"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://forbes.com", "stringKey": "view_more_info"}
+                    ]
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {"title": "Certifications"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2018, "month": 8},
+                    "fallbackFaIcon": "fa-brands fa-google",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Google UX Design Certification",
+                            "description": "Certified by Google in UX design; demonstrated expertise in user-centered design.",
+                            "institution": "Google"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://google.com", "stringKey": "view_certification"}
+                    ]
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2019, "month": 4},
+                    "fallbackFaIcon": "fa-solid fa-house-laptop",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "UI/UX Nanodegree",
+                            "description": "Completed comprehensive UI/UX nanodegree on Udemy; acquired practical skills.",
+                            "institution": "Udacity"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://udemy.com", "stringKey": "view_certification"}
+                    ]
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2023, "month": 6},
+                    "fallbackFaIcon": "fa-brands fa-google",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Material Design Certification",
+                            "description": "Earned Material Design certification; demonstrated proficiency in modern design principles.",
+                            "institution": "Google"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://google.com", "stringKey": "view_certification"}
+                    ]
+                }
+            ]
+        }
+    ]
+}

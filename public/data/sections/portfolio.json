@@ -1,0 +1,255 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "title": null,
+                    "category_all": "All",
+                    "category_productivity": "Productivity",
+                    "category_social": "Social",
+                    "category_utilities": "Utilities"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/portfolio/project-logo-3.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "BrainPulse",
+                            "description": "<b>BrainPulse</b> is your ultimate productivity app, helping you manage tasks, organize your schedule, and boost your focus. With its sleek and modern interface, BrainPulse offers features like task lists, reminders, goal tracking, and customizable productivity metrics. Whether you're a student, professional, or anyone looking to optimize their time and efficiency, BrainPulse is your go-to app for achieving more while maintaining work-life balance.",
+                            "tags": ["app", "productivity", "tasks", "focus"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
+                    ]
+                },
+
+                {
+                    "id": 2,
+                    "img": "images/portfolio/project-logo-6.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "Stackers",
+                            "description": "<b>Stackers</b> is your all-in-one organization and note-taking app, designed to streamline your digital life. With its seamless integration of task management, note organization, and cloud storage, Stackers helps you stay organized and productive. Create to-do lists, jot down ideas, and sync your notes across devices effortlessly. Whether you're a student, professional, or anyone seeking a clutter-free digital workspace, Stackers is here to elevate your organizational game.",
+                            "tags": ["app", "organization", "notes", "productivity"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
+                    ]
+                },
+
+                {
+                    "id": 3,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-crow",
+                    "fallbackFaIconColor": "#7c4d91",
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "Bird Tracker",
+                            "description": "Discover and document the world of birds with <b>Bird Tracker</b>! Whether you're a seasoned birdwatcher or just starting out, this app helps you identify species, log sightings, and track migration patterns. Use AI-powered recognition, interactive maps, and detailed bird profiles to enhance your birdwatching experience. Get closer to nature with <b>Bird Tracker</b>!",
+                            "tags": ["birdwatching", "nature", "wildlife", "tracking", "outdoors"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"},
+                        {"faIcon": "fa-brands fa-windows", "href": "https://apps.microsoft.com/home", "stringKey": "view_on_windows_store"}
+                    ]
+                },
+
+                {
+                    "id": 4,
+                    "img": "images/portfolio/project-logo-2.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "utilities",
+                    "locales": {
+                        "en": {
+                            "title": "Snappy",
+                            "description": "<b>Snappy</b> is your ultimate photography app, empowering you to capture and edit stunning images effortlessly. With its intuitive interface, Snappy provides a wide range of powerful tools and filters to enhance your photos and bring out your creativity. Whether you're a professional photographer or just a hobbyist, Snappy offers features like manual controls, advanced editing options, and AI-powered enhancements to take your photography to the next level.",
+                            "tags": ["app", "photography", "camera"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
+                    ]
+                },
+
+                {
+                    "id": 5,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-hippo",
+                    "fallbackFaIconColor": "#1c875b",
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "Hippo",
+                            "description": "Meet <b>Hippo</b>, the playful learning companion for kids! Designed to make education fun and interactive, <b>Hippo</b> offers engaging activities, colorful games, and brain-boosting challenges to help children develop essential skills. Whether it’s math, reading, or problem-solving, this app keeps young minds curious and excited to learn. Join the adventure and watch your little one grow with <b>Hippo</b>!",
+                            "tags": ["kids", "learning", "education", "fun", "interactive"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"},
+                        {"faIcon": "fa-brands fa-windows", "href": "https://apps.microsoft.com/home", "stringKey": "view_on_windows_store"}
+                    ]
+                },
+
+                {
+                    "id": 6,
+                    "img": "images/portfolio/project-logo-5.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "utilities",
+                    "locales": {
+                        "en": {
+                            "title": "Sweet Scoops",
+                            "description": "Indulge in the world of delectable desserts with <b>Sweet Scoops</b>! This app is a dessert lover's paradise, offering a wide range of mouthwatering recipes, step-by-step instructions, and videos for creating your favorite sweets. From creamy ice creams to irresistible pastries, <b>Sweet Scoops</b> has you covered for all your dessert cravings. Unleash your inner pastry chef and treat yourself to a delightful dessert experience.",
+                            "tags": ["app", "food", "desserts", "recipes"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
+                    ]
+                },
+
+                {
+                    "id": 7,
+                    "img": "images/portfolio/project-logo-9.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "social",
+                    "locales": {
+                        "en": {
+                            "title": "RockVerse",
+                            "description": "Step into the electrifying world of rock music with <b>RockVerse</b>! This app is a haven for rock enthusiasts, offering a vast collection of classic and modern rock tracks, curated playlists, and behind-the-scenes content. Whether you're a die-hard fan or just discovering the genre, <b>RockVerse</b> brings you closer to the heart and soul of rock and roll. Crank up the volume and let the rock 'n' roll spirit run wild!",
+                            "tags": ["app", "music", "rock", "entertainment"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"},
+                        {"faIcon": "fa-brands fa-windows", "href": "https://apps.microsoft.com/home", "stringKey": "view_on_windows_store"}
+                    ]
+                },
+
+                {
+                    "id": 8,
+                    "img": "images/portfolio/project-logo-4.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "utilities",
+                    "locales": {
+                        "en": {
+                            "title": "LiveScore Pro",
+                            "description": "Stay ahead of the game with <b>LiveScore Pro</b>! Get real-time football scores, goal updates, and match results from leagues worldwide. Never miss a moment of the action!",
+                            "tags": ["football", "scores", "sports", "results", "updates"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
+                    ]
+                },
+
+                {
+                    "id": 9,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-paper-plane",
+                    "fallbackFaIconColor": "#4a7ba1",
+                    "category": "social",
+                    "locales": {
+                        "en": {
+                            "title": "Paper Plane",
+                            "description": "Stay connected effortlessly with <b>Paper Plane</b>, the fast and secure messaging app designed for seamless communication. Send messages, share photos, and make voice or video calls with ease. With end-to-end encryption and a sleek, user-friendly interface, <b>Paper Plane</b> ensures your conversations are private and instant. Whether you're chatting with friends, family, or colleagues, experience messaging like never before!",
+                            "tags": ["messaging", "chat", "communication", "secure", "social"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"},
+                        {"faIcon": "fa-brands fa-windows", "href": "https://apps.microsoft.com/home", "stringKey": "view_on_windows_store"}
+                    ]
+                },
+
+                {
+                    "id": 10,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-crown",
+                    "fallbackFaIconColor": "#c5cc8f",
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "Chess Academy",
+                            "description": "Master the game of kings with <b>Chess Academy</b>! Whether you're a beginner or a seasoned player, this app offers interactive lessons, AI-powered puzzles, and strategic challenges to sharpen your skills. Learn from grandmasters, practice tactics, and improve your gameplay with personalized feedback. Checkmate your way to the top with <b>Chess Academy</b>!",
+                            "tags": ["chess", "strategy", "learning", "training", "education"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"},
+                        {"faIcon": "fa-brands fa-windows", "href": "https://apps.microsoft.com/home", "stringKey": "view_on_windows_store"}
+                    ]
+                },
+
+                {
+                    "id": 11,
+                    "img": "images/portfolio/project-logo-1.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "utilities",
+                    "locales": {
+                        "en": {
+                            "title": "SmartCash",
+                            "description": "<b>SmartCash</b> is your smart companion for personal finance, empowering you to take control of your money effortlessly. With its user-friendly interface, SmartCash provides real-time tracking of your expenses and income, enabling you to identify spending patterns and make informed financial decisions. Stay on top of your budget as SmartCash offers personalized recommendations to save money and achieve your financial goals without compromising your lifestyle.",
+                            "tags": ["app", "finance", "money", "budget"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
+                    ]
+                },
+
+                {
+                    "id": 12,
+                    "img": "images/portfolio/project-logo-7.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "productivity",
+                    "locales": {
+                        "en": {
+                            "title": "MailM8",
+                            "description": "<b>MailM8</b> is your intelligent email companion, revolutionizing the way you manage and interact with your inbox. With advanced AI-powered features, <b>MailM8</b> helps you declutter your email, prioritize important messages, and compose smart replies in a breeze. Say goodbye to email overwhelm and hello to a more efficient and organized communication experience with <b>MailM8</b>.",
+                            "tags": ["app", "email", "communication", "productivity"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Asrul Sani Ariesandy",
+    "profilePictureUrl": "images/pictures/me mid res 850x850.png",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a href='https://github.com/asrulsibaoel'>Asrul Sani Ariesandy</a></strong>",
+            "role": "Data Scientist"
+        }
+    },
+
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": "Malang, Indonesia",
+                    "valueShort": "Malang, ID"
+                }
+            }
+        },
+
+        {
+            "id": "email",
+            "value": "asrulsibaoel@gmail.com",
+            "valueShort": "asrulsibaoel@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:asrulsibaoel@gmail.com"
+        },
+
+        {
+            "id": "facebook",
+            "value": "Asrul Sani Ariesandy",
+            "valueShort": "Asrul SA",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://facebook.com/sijomblokaratan"
+        },
+
+        {
+            "id": "github",
+            "value": "@asrulsibaoel",
+            "valueShort": "@asrulsibaoel",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/asrulsibaoel"
+        },
+
+        {
+            "id": "instagram",
+            "value": "@asrulsaniariesandy",
+            "valueShort": "@asrulsaniariesandy",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com/asrulsaniariesandy"
+        },
+
+        {
+            "id": "linkedin",
+            "value": "@asrulsibaoel",
+            "valueShort": "@asrulsibaoel",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com/in/asrulsibaoel"
+        },
+
+        {
+            "id": "phone",
+            "value": "(+62) 896-4929-2510",
+            "valueShort": "(+62) 896-4929-2510",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "https://wa.me/6289649292510"
+        }
+    ]
+}

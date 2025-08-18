@@ -1,0 +1,34 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["address", "email", "phone"],
+                "contact_circles_ids": ["instagram", "facebook", "linkedin", "github"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "I've been a Data Scientist for <strong>8 years</strong>, crafting user-friendly interfaces that feel natural, intuitive, and seamless across different devices. My passion lies in designing digital experiences that not only look great but also function effortlessly, making interactions smoother and more enjoyable."
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "I believe that good design should enhance people's lives, helping them navigate technology with ease and confidence. Let’s work together to bring ideas to life and build something truly amazing!"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

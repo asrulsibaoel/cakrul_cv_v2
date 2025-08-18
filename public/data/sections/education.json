@@ -1,0 +1,94 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2014, "month": 1},
+                    "dateEnd": {"year": 2014, "month": 7},
+                    "img": "images/places/logo-udacity.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Pre-University Program in Computer Science",
+                            "description": "Completed a preparatory program covering foundational computer science topics such as programming, algorithms, and data structures. Gained hands-on experience with problem-solving and logical thinking.",
+                            "province": "Toronto",
+                            "country": "Canada",
+                            "institution": "Udacity",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2014, "month": 10},
+                    "dateEnd": {"year": 2015, "month": 6},
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "#140f29",
+
+                    "locales": {
+                        "en": {
+                            "title": "Technical Course in Programming",
+                            "description": "Completed a technical course focusing on software development fundamentals, including object-oriented programming, web development, and database management. Developed several projects applying real-world coding skills.",
+                            "province": "San Francisco",
+                            "country": "US",
+                            "institution": "Codecademy",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2015, "month": 8},
+                    "dateEnd": {"year": 2018, "month": 5},
+                    "img": "images/places/logo-harvard.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Bachelor's in Graphic Design with UX Emphasis",
+                            "description": "Graduated with a solid foundation in graphic design while specializing in user experience design. Acquired expertise in visual storytelling, UI design, and collaborative design thinking.",
+                            "province": "Massachusetts",
+                            "country": "US",
+                            "institution": "Harvard University",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2018, "month": 9},
+                    "dateEnd": {"year": 2020, "month": 5},
+                    "img": "images/places/logo-paris-university.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Master's in Human-Computer Interaction",
+                            "description": "Completed an intensive program focusing on user-centered design principles, usability testing, and interaction design. Developed skills in wireframing, prototyping, and user research methodologies.",
+                            "province": "",
+                            "country": "France",
+                            "institution": "University of Paris",
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

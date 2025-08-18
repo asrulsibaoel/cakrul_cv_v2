@@ -1,0 +1,159 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2015, "month": 1},
+                    "dateEnd": {"year": 2017, "month": 12},
+                    "img": "images/places/logo-ux-studio.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Data Scientist",
+                            "description": "Contributed to designing <strong>intuitive</strong> and <strong>user-friendly</strong> web application interfaces, creating engaging and seamless user experiences. Collaborated closely with cross-functional teams and stakeholders to ensure designs aligned with business goals and user needs.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Conducted <strong>user research</strong> to gather insights and inform design decisions.",
+                                    "Created wireframes, prototypes, and high-fidelity designs using <strong>Figma.</strong>",
+                                    "Collaborated with developers to ensure <strong>design feasibility</strong> and implementation.",
+                                    "Conducted <strong>usability testing</strong> to validate designs and gather feedback."
+                                ]
+                            },
+                            "province": "Hannover",
+                            "country": "Germany",
+                            "institution": "UX Masters Studio",
+                            "tags": ["Figma", "Wireframing", "Prototyping", "Responsive Design", "User Research"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2018, "month": 1},
+                    "dateEnd": {"year": 2020, "month": 8},
+                    "img": "images/places/logo-adobe.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Senior UI/Data Scientist",
+                            "description": "Led the design of innovative user interfaces and experiences for <strong>Adobe's flagship products</strong>, focusing on data-driven design principles. Collaborated with product managers and engineers to create intuitive and visually appealing designs that enhance user engagement and satisfaction.",
+                            "list": {
+                                "title": "Key Responsibilities:",
+                                "items": [
+                                    "Developed high-fidelity prototypes and wireframes using <strong>Figma</strong> and <strong>Adobe XD</strong>.",
+                                    "Conducted <strong>user testing</strong> and research to inform design decisions.",
+                                    "Collaborated with <strong>cross-functional teams</strong> to ensure design consistency and quality.",
+                                    "<strong>Mentored junior designers</strong> in best practices and design methodologies."
+                                ]
+                            },
+                            "province": "California",
+                            "country": "US",
+                            "institution": "Adobe",
+                            "tags": ["Figma", "Adobe XD", "Sketch", "Data-Driven Design"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2020, "month": 9},
+                    "dateEnd": {"year": 2022, "month": 9},
+                    "img": "images/places/logo-apple.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Lead Data Scientist",
+                            "description": "Led the design team in creating <strong>innovative user experiences</strong> for Apple's software products, focusing on enhancing usability and accessibility. Worked closely with product managers and engineers to develop design solutions that meet user needs and business objectives.",
+                            "list": {
+                                "title": "Key Responsibilities:",
+                                "items": [
+                                    "Designed user interfaces and experiences for <strong>Apple's software products</strong>.",
+                                    "Conducted <strong>user research</strong> and usability testing to inform design decisions.",
+                                    "Collaborated with <strong>cross-functional teams</strong> to ensure design feasibility and implementation.",
+                                    "<strong>Mentored junior designers</strong> in UX design best practices."
+                                ]
+                            },
+                            "province": "California",
+                            "country": "US",
+                            "institution": "Apple",
+                            "tags": ["Sketch", "Adobe XD", "InVision", "Design Strategy", "Cross-Functional Collaboration"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2022, "month": 10},
+                    "dateEnd": {"year": 2024, "month": 9},
+                    "img": "images/places/logo-coursera.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "UX Design Full-Time Professor",
+                            "description": "Taught advanced <strong>UX design principles</strong> and <strong>practices</strong> to undergraduate and graduate students, focusing on real-world applications and industry standards. Developed course materials and assignments that challenged students to think critically and creatively about user experience design.",
+                            "list": {
+                                "title": "Key Responsibilities:",
+                                "items": [
+                                    "Designed and delivered lectures on <strong>UX design methodologies</strong>.",
+                                    "<strong>Supervised student projects</strong> and provided constructive feedback.",
+                                    "Collaborated with industry professionals to <strong>keep course content relevant.</strong>",
+                                    "<strong>Mentored students</strong> in their career development and design portfolios."
+                                ]
+                            },
+                            "province": "New York",
+                            "country": "US",
+                            "institution": "Coursera",
+                            "tags": ["Adobe XD", "Sketch", "Axure", "Educational Mentorship"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2024, "month": 10},
+                    "dateEnd": {"string": "now"},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-steam",
+                    "fallbackFaIconColor": "#222222",
+
+                    "locales": {
+                        "en": {
+                            "title": "Project Manager",
+                            "description": "Overseeing the development and implementation of <strong>Agile methodologies</strong> within the organization, ensuring projects are delivered on time and within scope. Collaborating with cross-functional teams to manage risks, resources, and stakeholder expectations effectively.",
+                            "list": {
+                                "title": "Key Responsibilities:",
+                                "items": [
+                                    "Facilitated <strong>Agile ceremonies</strong> such as sprint planning, daily stand-ups, and retrospectives.",
+                                    "Managed project timelines, budgets, and resources to ensure successful delivery.",
+                                    "Collaborated with product owners to prioritize and <strong>refine the product backlog</strong>.",
+                                    "<strong>Identified and mitigated</strong> project risks to ensure smooth execution."
+                                ]
+                            },
+                            "province": "San Francisco",
+                            "country": "US",
+                            "institution": "Steam Valve",
+                            "tags": ["Agile", "Scrum", "Leadership", "Risk Management"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
