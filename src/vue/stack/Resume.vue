@@ -33,18 +33,18 @@ const currentSection = inject("currentSection")
  * @description This hook can be used to report a visit to an external analytics service.
  * Here, you can integrate Google Analytics, Mixpanel, or your own custom analytics implementation.
  */
-onMounted(() => {
-    fetch("https://ryanbalieiro.com/api/analytics/mock", {
-        method: 'POST',
-        headers: {'Content-Type': 'application/json'},
-        body: JSON.stringify({
-            params: {
-                url: utils.getRootLocation(),
-                template_id: "vue-resume"
-            }
-        })
-    })
-})
+// onMounted(() => {
+//     fetch("https://ryanbalieiro.com/api/analytics/mock", {
+//         method: 'POST',
+//         headers: {'Content-Type': 'application/json'},
+//         body: JSON.stringify({
+//             params: {
+//                 url: utils.getRootLocation(),
+//                 template_id: "vue-resume"
+//             }
+//         })
+//     })
+// })
 
 const _isSectionActive = (section) => {
     if(!currentSection.value)

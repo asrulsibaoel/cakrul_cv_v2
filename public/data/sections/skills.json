@@ -1,121 +1,12 @@
 {
     "articles": [
+        
+
         {
             "id": 1,
             "component": "ArticleSkills",
-            "locales": {},
-            "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "asc",
-                "max_items_per_line": 2,
-                "transparent_item_icon_background": false,
-                "small_icons": false,
-                "chart": null
-            },
-            "items": [
-                {
-                    "id": 1,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-paint-roller",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Design Principles",
-                            "description": "Masterful at creating captivating designs, blending color theory, typography, layout, and balance for effective messaging.",
-                            "level": null
-                        }
-                    }
-                },
-
-                {
-                    "id": 2,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-mobile-alt",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Responsive Layouts",
-                            "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience.",
-                            "level": null
-                        }
-                    }
-                },
-
-                {
-                    "id": 3,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-vector-square",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Wireframing",
-                            "description": "Skilled in creating detailed wireframes to visualize and plan user interfaces, effectively laying the foundation for intuitive design.",
-                            "level": null
-                        }
-                    }
-                },
-
-                {
-                    "id": 4,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-check-double",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Usability Testing",
-                            "description": "Enhancing user experiences through comprehensive usability testing.",
-                            "level": null
-                        }
-                    }
-                },
-
-                {
-                    "id": 5,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-expand-arrows-alt",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Interaction Design",
-                            "description": "Proficient in creating intuitive and seamless interactions for user-friendly experiences, harmonizing aesthetics and usability.",
-                            "level": null
-                        }
-                    }
-                },
-
-                {
-                    "id": 6,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-laptop-code",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Prototyping",
-                            "description": "Skilled in translating concepts into interactive prototypes for testing and refinement.",
-                            "level": null
-                        }
-                    }
-                }
-            ]
-        },
-
-        {
-            "id": 2,
-            "component": "ArticleSkills",
             "locales": {
-                "en": {"title": "Frontend Stack"}
+                "en": {"title": "Data Science & Machine Learning"}
             },
             "settings": {
                 "order_items_by": "percentage",
@@ -130,87 +21,72 @@
                     "id": 1,
                     "dateStart": {"year": 2019, "month": 4},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
                     "percentage": 95,
                     "locales": {
                         "en": {
-                            "title": "HTML 5",
-                            "description": "Experienced with HTML5 elements and features."
+                            "title": "Numpy & Pandas",
+                            "description": ""
                         }
                     }
                 },
 
                 {
                     "id": 2,
-                    "dateStart": {"year": 2021, "month": 4},
+                    "dateStart": {"year": 2019, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-css3-alt",
+                    "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
                     "percentage": 90,
                     "locales": {
                         "en": {
-                            "title": "CSS 3",
-                            "description": "Skilled in advanced CSS3 techniques like flexbox and animations."
+                            "title": "TensorFlow & PyTorch",
+                            "description": ""
                         }
                     }
                 },
 
                 {
                     "id": 3,
-                    "dateStart": {"year": 2017, "month": 8},
+                    "dateStart": {"year": 2020, "month": 8},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-js-square",
+                    "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
-                    "percentage": 85,
+                    "percentage": 95,
                     "locales": {
                         "en": {
-                            "title": "Javascript",
-                            "description": "Skilled in JavaScript for dynamic, interactive web applications."
+                            "title": "Computer Vision",
+                            "description": ""
                         }
                     }
                 },
 
                 {
                     "id": 4,
-                    "dateStart": {"year": 2017, "month": 3},
+                    "dateStart": {"year": 2019, "month": 3},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
-                    "percentage": 100,
+                    "percentage": 98,
                     "locales": {
                         "en": {
-                            "title": "Vue 3",
-                            "description": "Capable of building and deploying complex Vue applications."
+                            "title": "Machine Learning Algorithms",
+                            "description": ""
                         }
                     }
                 },
 
                 {
                     "id": 5,
-                    "dateStart": {"year": 2024, "month": 1},
+                    "dateStart": {"year": 2019, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-react",
+                    "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
-                    "percentage": 75,
+                    "percentage": 90,
                     "locales": {
                         "en": {
-                            "title": "React",
-                            "description": "Experienced in building interactive UIs with React, using hooks and component-based architecture."
-                        }
-                    }
-                },
-
-                {
-                    "id": 6,
-                    "dateStart": {"year": 2022, "month": 11},
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-angular",
-                    "fallbackFaIconColor": null,
-                    "percentage": 75,
-                    "locales": {
-                        "en": {
-                            "title": "Angular",
+                            "title": "Natural Language Processing",
                             "description": ""
                         }
                     }
@@ -219,10 +95,10 @@
         },
 
         {
-            "id": 3,
+            "id": 2,
             "component": "ArticleSkills",
             "locales": {
-                "en": {"title": "Backend Stack"}
+                "en": {"title": "Software Development"}
             },
             "settings": {
                 "order_items_by": "id",
@@ -235,44 +111,235 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2020, "month": 1},
+                    "dateStart": {"year": 2015, "month": 4},
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-database",
                     "fallbackFaIconColor": null,
-                    "percentage": 85,
+                    "percentage": 98,
                     "locales": {
                         "en": {
-                            "title": "MySQL",
-                            "description": "Skilled in managing MySQL databases, including schema design and query optimization."
+                            "title": "Python",
+                            "description": ""
                         }
                     }
                 },
 
                 {
                     "id": 2,
-                    "dateStart": {"year": 2021, "month": 1},
+                    "dateStart": {"year": 2015, "month": 4},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-php",
+                    "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
                     "percentage": 80,
                     "locales": {
                         "en": {
                             "title": "PHP",
-                            "description": "Experienced in building dynamic web apps with PHP, including server-side logic and database integration."
+                            "description": ""
                         }
                     }
                 },
 
                 {
                     "id": 3,
-                    "dateStart": {"year": 2022, "month": 1},
+                    "dateStart": {"year": 2021, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-laravel",
+                    "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
-                    "percentage": 55,
+                    "percentage": 75,
                     "locales": {
                         "en": {
-                            "title": "Laravel",
+                            "title": "Golang",
+                            "description": ""
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2017, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "TypeScript & JavaScript",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2015, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Scala & Java",
+                            "description": ""
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Data Engineering"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2019, "month": 1},
+                    "img": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "Apache Airflow",
+                            "description": ""
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2019, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Google BigQuery",
+                            "description": ""
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2017, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "percentage": 89,
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB",
+                            "description": ""
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2018, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "PostgreSQL",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2019, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Apache Beam",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2017, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "RabbitMQ & Kafka",
+                            "description": ""
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Infrastructure Engineering"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2017, "month": 1},
+                    "img": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": 98,
+                    "locales": {
+                        "en": {
+                            "title": "GCP & AWS",
+                            "description": ""
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2017, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "percentage": 88,
+                    "locales": {
+                        "en": {
+                            "title": "Redis & Memcached",
+                            "description": ""
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2016, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Kubernetes & Docker",
                             "description": ""
                         }
                     }
@@ -282,12 +349,26 @@
                     "id": 4,
                     "dateStart": {"year": 2023, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-node",
+                    "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
-                    "percentage": 40,
+                    "percentage": 70,
                     "locales": {
                         "en": {
-                            "title": "NodeJS",
+                            "title": "Service Mesh (Istio)",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2014, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "percentage": 86,
+                    "locales": {
+                        "en": {
+                            "title": "Linux & Bash Scripting",
                             "description": ""
                         }
                     }
@@ -296,7 +377,7 @@
         },
 
         {
-            "id": 4,
+            "id": 5,
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Languages"}
@@ -320,8 +401,8 @@
                     "locales": {
                         "en": {
                             "title": "English",
-                            "description": "Native speaker with excellent communication and writing skills.",
-                            "level": "Native"
+                            "description": "Fluent in both spoken and written. Confident in professional communication.",
+                            "level": "Fluent"
                         }
                     }
                 },
@@ -329,15 +410,15 @@
                 {
                     "id": 2,
                     "dateStart": null,
-                    "img": "images/flags/es.png",
+                    "img": "images/flags/id.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "Spanish",
-                            "description": "Fluent in both spoken and written Spanish; confident in professional communication.",
-                            "level": "Fluent"
+                            "title": "Bahasa Indonesia",
+                            "description": "Native speaker in Bahasa Indonesia; confident in professional and daily communication.",
+                            "level": "Native"
                         }
                     }
                 },
@@ -345,31 +426,15 @@
                 {
                     "id": 3,
                     "dateStart": null,
-                    "img": "images/flags/vi.png",
+                    "img": "images/flags/id.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "Vietnamese",
-                            "description": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text.",
-                            "level": "Intermediate"
-                        }
-                    }
-                },
-
-                {
-                    "id": 4,
-                    "dateStart": null,
-                    "img": "images/flags/pt-br.png",
-                    "fallbackFaIcon": null,
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Brazilian Portuguese",
-                            "description": "Basic understanding of Brazilian Portuguese; learning and improving.",
-                            "level": "Beginner"
+                            "title": "Javanese",
+                            "description": "Native speaker in Javanese; confident in professional and daily communication.",
+                            "level": "Native"
                         }
                     }
                 }

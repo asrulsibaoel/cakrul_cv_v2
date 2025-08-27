@@ -65,22 +65,6 @@
         },
 
         {
-            "id": "portfolio",
-            "categoryId": "showcase",
-            "jsonPath": "/sections/portfolio.json",
-            "faIcon": "fa-solid fa-folder-open",
-            "type": "column",
-            "locales": {
-                "en": {
-                    "title": "My *Portfolio*",
-                    "title_short": null,
-                    "description": "Explore a selection of my recent projects and creative works.",
-                    "nav_label": "Portfolio"
-                }
-            }
-        },
-
-        {
             "id": "achievements",
             "categoryId": "showcase",
             "jsonPath": "/sections/achievements.json",

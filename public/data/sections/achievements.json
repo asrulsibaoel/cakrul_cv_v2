@@ -13,14 +13,14 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2018, "month": 8},
+                    "dateStart": {"year": 2017, "month": 2},
                     "fallbackFaIcon": "fa-solid fa-university",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "Best Graduation Project",
-                            "description": "Outstanding work on graduation project; recognized for innovation and impact.",
-                            "institution": "Harvard University"
+                            "title": "National Apps Development Competition Finalist",
+                            "description": "We've got top 10 in National Apps Development Competition; showcased innovative app development skills.",
+                            "institution": "Amanah Bersama Ummat(ABU) Corporation"
                         }
                     },
                     "links": []
@@ -28,50 +28,18 @@
 
                 {
                     "id": 2,
-                    "dateStart": {"year": 2019, "month": 9},
+                    "dateStart": {"year": 2021, "month": 12},
                     "fallbackFaIcon": "fa-solid fa-university",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "2nd Place – Alumni UX Hackathon",
-                            "description": "Secured 2nd place in Harvard's Alumni UX hackathon; demonstrated creative problem-solving.",
-                            "institution": "Harvard University"
+                            "title": "China ASEAN Education Cooperation Week 2021-International Contest of Internet of Things Technology - 1st Prize",
+                            "description": "Secured 1st Prize in China IoT Competition; demonstrated excellence in IoT solutions and innovation.",
+                            "institution": "Beijing Institute of Technology"
                         }
                     },
                     "links": [
-                        {"href": "https://harvard.com", "stringKey": "view_more_info"}
-                    ]
-                },
-
-                {
-                    "id": 3,
-                    "dateStart": {"year": 2020, "month": 11},
-                    "fallbackFaIcon": "fa-solid fa-house-laptop",
-                    "fallbackFaIconColor": null,
-                    "locales": {
-                        "en": {
-                            "title": "1st Place – Adobe Creative Jam",
-                            "description": "Achieved 1st place in Adobe Creative Jam; showcased design excellence and collaboration.",
-                            "institution": "Adobe Inc."
-                        }
-                    },
-                    "links": []
-                },
-
-                {
-                    "id": 4,
-                    "dateStart": {"year": 2023, "month": 3},
-                    "fallbackFaIcon": "fa-solid fa-newspaper",
-                    "fallbackFaIconColor": null,
-                    "locales": {
-                        "en": {
-                            "title": "Article Mention – UX Contribution",
-                            "description": "Featured in Forbes for outstanding UX contributions; impactful designs and insights.",
-                            "institution": "Forbes"
-                        }
-                    },
-                    "links": [
-                        {"href": "https://forbes.com", "stringKey": "view_more_info"}
+                        {"href": "https://english.bit.edu.cn", "stringKey": "view_more_info"}
                     ]
                 }
             ]
@@ -90,53 +58,67 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2018, "month": 8},
+                    "dateStart": {"year": 2017, "month": 8},
                     "fallbackFaIcon": "fa-brands fa-google",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "Google UX Design Certification",
-                            "description": "Certified by Google in UX design; demonstrated expertise in user-centered design.",
-                            "institution": "Google"
+                            "title": "Hadoop 101 by IBM (2017)",
+                            "description": "Issue Serial: 2409beb0dc9849998ac24633d1326605",
+                            "institution": "IBM"
                         }
                     },
                     "links": [
-                        {"href": "https://google.com", "stringKey": "view_certification"}
+                        {"href": "https://www.ibm.com/training/credentials", "stringKey": "view_certification"}
                     ]
                 },
 
                 {
                     "id": 2,
-                    "dateStart": {"year": 2019, "month": 4},
+                    "dateStart": {"year": 2018, "month": 4},
                     "fallbackFaIcon": "fa-solid fa-house-laptop",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "UI/UX Nanodegree",
-                            "description": "Completed comprehensive UI/UX nanodegree on Udemy; acquired practical skills.",
-                            "institution": "Udacity"
+                            "title": "Scala 101",
+                            "description": "Issue Serial:2409beb0dc9849998ac24633d1326605",
+                            "institution": "CogintiveClass.ai"
                         }
                     },
-                    "links": [
-                        {"href": "https://udemy.com", "stringKey": "view_certification"}
-                    ]
+                    "links": []
                 },
 
                 {
                     "id": 3,
-                    "dateStart": {"year": 2023, "month": 6},
+                    "dateStart": {"year": 2019, "month": 6},
                     "fallbackFaIcon": "fa-brands fa-google",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "Material Design Certification",
-                            "description": "Earned Material Design certification; demonstrated proficiency in modern design principles.",
-                            "institution": "Google"
+                            "title": "Ethical Hacking Fundamentals",
+                            "description": "Completed the Ethical Hacking Fundamentals course, gaining foundational knowledge in cybersecurity and ethical hacking practices. Certification ID: ECC9480163527",
+                            "institution": "EC-COUNCIL"
                         }
                     },
-                    "links": [
-                        {"href": "https://google.com", "stringKey": "view_certification"}
-                    ]
+                    "links": []
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2021, "month": 6},
+                    "fallbackFaIcon": "fa-brands fa-google",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Machine Learning with Python",
+                            "description": "Completed the Machine Learning with Python course, acquiring practical skills in implementing machine learning algorithms using Python",
+                            "institution": "CogintiveClass.ai"
+                        }
+                    },
+                    "links": [{
+                        "href": "https://www.youracclaim.com/badges/06ba36d1-1bda-4846-bc9b-0188b08b3022/public_url",
+                        "stringKey": "view_certification"
+                    }]
                 }
             ]
         }

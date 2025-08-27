@@ -11,145 +11,188 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2015, "month": 1},
-                    "dateEnd": {"year": 2017, "month": 12},
-                    "img": "images/places/logo-ux-studio.png",
-                    "fallbackFaIcon": null,
+                    "dateStart": {"year": 2014, "month": 7},
+                    "dateEnd": {"year": 2016, "month": 3},
+                    "img": "",
+                    "fallbackFaIcon": "fa-brands",
                     "fallbackFaIconColor": null,
 
+                    "locales": {
+                        "en": {
+                            "title": "Web Programmer",
+                            "description": "Successfully built various web-based applications like ERP, Hotel Management Systems, School Company Profiles and so on. Using PHP as the main programming language. Also using various technologies such as Yii Framework, MySQL, MariaDB and AngularJs.",
+                            "province": "East Java",
+                            "country": "Indonesia",
+                            "institution": "Landa.co.id",
+                            "tags": ["Enterprise Resource Planning", "PHP", "Hotel Management Systems", "MariaDB", "SQL", "Yii Framework", "AngularJS"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2016, "month": 9},
+                    "dateEnd": {"year": 2016, "month": 12},
+                    "img": "",
+                    "fallbackFaIcon": "fa-brands",
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Android Developer",
+                            "description": "Professionally built android Apps using various technologies such as Java, Dagger, Retrofit and so on.",
+                            "province": "East Java",
+                            "country": "Indonesia",
+                            "institution": "Rimbunesia",
+                            "tags": ["Java", "Retrofit", "Dagger"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2016, "month": 9},
+                    "dateEnd": {"year": 2016, "month": 12},
+                    "img": "",
+                    "fallbackFaIcon": "fa-brands",
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Backend Engineer",
+                            "description": "Professionally designed and maintain the microservice   architecture using Javascript and PHP as main Programming Languages. Adopted various technology to the system such as ExpressJS and Laravel, MongoDB, RabbitMQ, Redis, etc.",
+                            "province": "East Java",
+                            "country": "Indonesia",
+                            "institution": "Cekstok.com",
+                            "tags": ["PHP", "Javascript", "Laravel", "ExpressJS", "MongoDB", "RabbitMQ", "Redis"]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2017, "month": 10},
+                    "dateEnd": {"year": 2019, "month": 2},
+                    "img": "",
+                    "fallbackFaIcon": "fa-brands",
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Software Engineer",
+                            "description": "Professionally designed and maintain the microservice architecture using Typescript as main Programming Language. Adopted various technology to the system such as Merapi Framework, RabbitMQ, Redis, Google Cloud VMs, etc.",
+                            "province": "East Java",
+                            "country": "Indonesia",
+                            "institution": "Kata.ai",
+                            "tags": ["Typescript", "Merapi Framework", "RabbitMQ", "Redis", "Google Cloud VMs"]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2019, "month": 2},
+                    "dateEnd": {"year": 2020, "month": 6},
+                    "img": "",
+                    "fallbackFaIcon": "fa-brands",
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Data Engineer",
+                            "description": "Professionally built Data Pipeline System using various tools like Apache Kafka, Apache Spark, MySQL, Big Query, Cockroach DB, Cassandra, Apache Airflow and so on. Mostly using Scala and Java as main Programming Languages.",
+                            "province": "East Java",
+                            "country": "Indonesia",
+                            "institution": "Kata.ai",
+                            "tags": ["Apache Kafka", "Apache Spark", "MySQL", "Big Query", "Cockroach DB", "Cassandra", "Apache Airflow", "Scala", "Java"]
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2020, "month": 6},
+                    "dateEnd": {"year": 2021, "month": 2},
+                    "img": "",
+                    "fallbackFaIcon": "fa-brands",
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "AI Research Engineer",
+                            "description": "Successfully built Machine Learning System which focused in Natural Language Processing (NLP). Using Python as main programming language and machine learning tools such as MarianMT, NLTK, Numpy, Pytorch, Tensorflow and so on.",
+                            "province": "East Java",
+                            "country": "Indonesia",
+                            "institution": "Kata.ai",
+                            "tags": ["Natural Language Processing", "Python", "MarianMT", "NLTK", "Numpy", "Pytorch", "Tensorflow"]
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "dateStart": {"year": 2021, "month": 3},
+                    "dateEnd": {"year": 2021, "month": 11},
+                    "img": "",
+                    "fallbackFaIcon": "fa-brands",
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Machine Learning Engineer",
+                            "description": "Successfully built Machine Learning System which focused in Network Protocol Security. Using Python as main Programming Language and Machine Learning or Data Science tools such as Scikit Learn, Numpy, Pandas and Tensorflow.",
+                            "province": "Genting Lane",
+                            "country": "Singapore",
+                            "institution": "usec.io (Microsec, Pte, Ltd.)",
+                            "tags": ["Scikit Learn", "Numpy", "Pandas", "Tensorflow", "Python", "Network Protocol Security", "Deep Learning", "Machine Learning"]
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "dateStart": {"year": 2021, "month": 12},
+                    "dateEnd": {"year": 2022, "month": 3},
+                    "img": "",
+                    "fallbackFaIcon": "fa-brands",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Senior Machine Learning Engineer",
+                            "description": "As a senior Machine Learning Engineer, I have responsibilities to do a research and development in machine learning pipelines to make sure our machine learning pipelines become more and more reliable.",
+                            "province": "Jakarta",
+                            "country": "Indonesia",
+                            "institution": "Koinworks",
+                            "tags": ["Scikit Learn", "Numpy", "Pandas", "Tensorflow", "Python", "Deep Learning", "Machine Learning", "Flask", "FastAPI", "Docker"]
+                        }
+                    }
+                },
+                {
+                    "id": 9,
+                    "dateStart": {"year": 2022, "month": 3},
+                    "dateEnd": {"year": 2023, "month": 5},
+                    "img": "",
+                    "fallbackFaIcon": "fa-brands",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Lead Machine Learning Engineer",
+                            "description": "As a leader, I drove my team to make their own duty by give them advice and guidance on how to deal with special cases in machine learning pipelines, deployments or etc. Also managing their tasks balance to make sure there is no one left behind. Also doing research and development in machine learning pipelines in order to keep our pipelines more and more reliable and efficient.",
+                            "province": "Jakarta",
+                            "country": "Indonesia",
+                            "institution": "Koinworks",
+                            "tags": ["Scikit Learn", "Team Management" , "Numpy", "Pandas", "Tensorflow", "Python", "Deep Learning", "Machine Learning", "Flask", "FastAPI", "Docker"]
+                        }
+                    }
+                },
+                {
+                    "id": 10,
+                    "dateStart": {"year": 2023, "month": 6},
+                    "dateEnd": {"string": "now"},
+                    "img": "",
+                    "fallbackFaIcon": "fa-brands",
+                    "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
                             "title": "Data Scientist",
-                            "description": "Contributed to designing <strong>intuitive</strong> and <strong>user-friendly</strong> web application interfaces, creating engaging and seamless user experiences. Collaborated closely with cross-functional teams and stakeholders to ensure designs aligned with business goals and user needs.",
-                            "list": {
-                                "title": "Key Responsibilities",
-                                "items": [
-                                    "Conducted <strong>user research</strong> to gather insights and inform design decisions.",
-                                    "Created wireframes, prototypes, and high-fidelity designs using <strong>Figma.</strong>",
-                                    "Collaborated with developers to ensure <strong>design feasibility</strong> and implementation.",
-                                    "Conducted <strong>usability testing</strong> to validate designs and gather feedback."
-                                ]
-                            },
-                            "province": "Hannover",
-                            "country": "Germany",
-                            "institution": "UX Masters Studio",
-                            "tags": ["Figma", "Wireframing", "Prototyping", "Responsive Design", "User Research"]
-                        }
-                    }
-                },
-
-                {
-                    "id": 2,
-                    "dateStart": {"year": 2018, "month": 1},
-                    "dateEnd": {"year": 2020, "month": 8},
-                    "img": "images/places/logo-adobe.png",
-                    "fallbackFaIcon": null,
-                    "fallbackFaIconColor": null,
-
-                    "locales": {
-                        "en": {
-                            "title": "Senior UI/Data Scientist",
-                            "description": "Led the design of innovative user interfaces and experiences for <strong>Adobe's flagship products</strong>, focusing on data-driven design principles. Collaborated with product managers and engineers to create intuitive and visually appealing designs that enhance user engagement and satisfaction.",
-                            "list": {
-                                "title": "Key Responsibilities:",
-                                "items": [
-                                    "Developed high-fidelity prototypes and wireframes using <strong>Figma</strong> and <strong>Adobe XD</strong>.",
-                                    "Conducted <strong>user testing</strong> and research to inform design decisions.",
-                                    "Collaborated with <strong>cross-functional teams</strong> to ensure design consistency and quality.",
-                                    "<strong>Mentored junior designers</strong> in best practices and design methodologies."
-                                ]
-                            },
-                            "province": "California",
-                            "country": "US",
-                            "institution": "Adobe",
-                            "tags": ["Figma", "Adobe XD", "Sketch", "Data-Driven Design"]
-                        }
-                    }
-                },
-
-                {
-                    "id": 3,
-                    "dateStart": {"year": 2020, "month": 9},
-                    "dateEnd": {"year": 2022, "month": 9},
-                    "img": "images/places/logo-apple.png",
-                    "fallbackFaIcon": null,
-                    "fallbackFaIconColor": null,
-
-                    "locales": {
-                        "en": {
-                            "title": "Lead Data Scientist",
-                            "description": "Led the design team in creating <strong>innovative user experiences</strong> for Apple's software products, focusing on enhancing usability and accessibility. Worked closely with product managers and engineers to develop design solutions that meet user needs and business objectives.",
-                            "list": {
-                                "title": "Key Responsibilities:",
-                                "items": [
-                                    "Designed user interfaces and experiences for <strong>Apple's software products</strong>.",
-                                    "Conducted <strong>user research</strong> and usability testing to inform design decisions.",
-                                    "Collaborated with <strong>cross-functional teams</strong> to ensure design feasibility and implementation.",
-                                    "<strong>Mentored junior designers</strong> in UX design best practices."
-                                ]
-                            },
-                            "province": "California",
-                            "country": "US",
-                            "institution": "Apple",
-                            "tags": ["Sketch", "Adobe XD", "InVision", "Design Strategy", "Cross-Functional Collaboration"]
-                        }
-                    }
-                },
-
-                {
-                    "id": 4,
-                    "dateStart": {"year": 2022, "month": 10},
-                    "dateEnd": {"year": 2024, "month": 9},
-                    "img": "images/places/logo-coursera.png",
-                    "fallbackFaIcon": null,
-                    "fallbackFaIconColor": null,
-
-                    "locales": {
-                        "en": {
-                            "title": "UX Design Full-Time Professor",
-                            "description": "Taught advanced <strong>UX design principles</strong> and <strong>practices</strong> to undergraduate and graduate students, focusing on real-world applications and industry standards. Developed course materials and assignments that challenged students to think critically and creatively about user experience design.",
-                            "list": {
-                                "title": "Key Responsibilities:",
-                                "items": [
-                                    "Designed and delivered lectures on <strong>UX design methodologies</strong>.",
-                                    "<strong>Supervised student projects</strong> and provided constructive feedback.",
-                                    "Collaborated with industry professionals to <strong>keep course content relevant.</strong>",
-                                    "<strong>Mentored students</strong> in their career development and design portfolios."
-                                ]
-                            },
-                            "province": "New York",
-                            "country": "US",
-                            "institution": "Coursera",
-                            "tags": ["Adobe XD", "Sketch", "Axure", "Educational Mentorship"]
-                        }
-                    }
-                },
-
-                {
-                    "id": 5,
-                    "dateStart": {"year": 2024, "month": 10},
-                    "dateEnd": {"string": "now"},
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-steam",
-                    "fallbackFaIconColor": "#222222",
-
-                    "locales": {
-                        "en": {
-                            "title": "Project Manager",
-                            "description": "Overseeing the development and implementation of <strong>Agile methodologies</strong> within the organization, ensuring projects are delivered on time and within scope. Collaborating with cross-functional teams to manage risks, resources, and stakeholder expectations effectively.",
-                            "list": {
-                                "title": "Key Responsibilities:",
-                                "items": [
-                                    "Facilitated <strong>Agile ceremonies</strong> such as sprint planning, daily stand-ups, and retrospectives.",
-                                    "Managed project timelines, budgets, and resources to ensure successful delivery.",
-                                    "Collaborated with product owners to prioritize and <strong>refine the product backlog</strong>.",
-                                    "<strong>Identified and mitigated</strong> project risks to ensure smooth execution."
-                                ]
-                            },
-                            "province": "San Francisco",
-                            "country": "US",
-                            "institution": "Steam Valve",
-                            "tags": ["Agile", "Scrum", "Leadership", "Risk Management"]
+                            "description": "As a Data Scientist, I have responsibilities to research, develop, deploy and maintain a Computer Vision project especially in an Optical Character Recognition (OCR) Engine to make computers to have abilities to extract, understand and preserve the result of the extracted images. Also in charge of developing Proctoring Engine, Road Segmentation Models, etc.",
+                            "province": "Jakarta",
+                            "country": "Indonesia",
+                            "institution": "S-Quantum Engine",
+                            "tags": [ "Numpy", "Pandas", "Tensorflow", "PyTorch", "Transformers", "Huggingface", "Python", "Deep Learning", "Machine Learning", "Flask", "FastAPI", "Docker"]
                         }
                     }
                 }

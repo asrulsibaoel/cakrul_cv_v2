@@ -29,7 +29,7 @@ const props = defineProps({
 const ARTICLES_MAP = {
     ArticleContactForm,
     ArticleContactOptions,
-    ArticlePortfolio,
+    // ArticlePortfolio,
     ArticleProfile,
     ArticleSkills,
     ArticleThread,
